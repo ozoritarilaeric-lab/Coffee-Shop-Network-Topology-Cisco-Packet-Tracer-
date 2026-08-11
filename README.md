@@ -117,6 +117,21 @@ Network	  →  → → Subnet       →  →  →  →       Gateway
 Staff LAN   →  192.168.10.0/24	→ 192.168.10.1
 
 Guest Wi-Fi	→ 192.168.20.0/24	→ 192.168.20.1
+
+# Features Demonstrated
+-Router-to-switch topology
+
+-Wired LAN connectivity
+
+-Wireless guest network
+
+-Internet access simulation
+
+-POS device integration
+
+-Printer connectivity
+
+-Basic network segmentation concepts
 				
 				
 	
