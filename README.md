@@ -24,6 +24,9 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 # Wired Devices
 
 -Manager PC
+
 -POS Terminal
+
 -Office Printer
+
 -Receipt Printer
