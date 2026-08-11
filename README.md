@@ -73,4 +73,17 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 
 -Packet Tracer topology creation and troubleshooting
 
+# Devices Used
+
+# Device                   Purpose
+Cloud-PT	                 ISP / Internet
+Cisco 2911 Router	         Routing and WAN connectivity
+Cisco 2960-24TT            Switch	LAN switching
+AccessPoint-PT	           Guest Wi-Fi
+Manager PC	               Administration workstation
+POS Terminal	             Sales and billing system
+Office Printer	           Office printing
+Receipt Printer	           Customer receipt printing
+Guest Laptops	Wireless client devices
+
 
