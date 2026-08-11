@@ -112,7 +112,7 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 Guest laptops connect wirelessly to the access point.
 
 # Suggested IP Addressing
-Network	    →  Subnet           →      Gateway    
+Network	    →  Subnet           →         Gateway    
 
 Staff LAN   →  192.168.10.0/24	→ 192.168.10.1
 
