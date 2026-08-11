@@ -36,3 +36,11 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 -Added an Access Point for guest Wi-Fi.
 
 -Connected two guest laptops wirelessly to the access point.
+
+# Connectivity Verification
+
+-Ensured all interfaces were active (green status indicators).
+
+-Verified that wired and wireless devices were connected through the switch and router.
+
+-Simulated Internet access through the ISP cloud.
