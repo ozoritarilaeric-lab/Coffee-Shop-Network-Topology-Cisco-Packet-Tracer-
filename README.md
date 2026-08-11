@@ -118,6 +118,16 @@ Staff LAN   →  192.168.10.0/24	→ 192.168.10.1
 
 Guest Wi-Fi	→ 192.168.20.0/24	→ 192.168.20.1
 
+# Example VLAN Design
+
+VLAN →	    Purpose
+VLAN 10 →	Staff devices
+VLAN 20 →	POS devices
+VLAN 30 →	Guest Wi‑Fi
+
+
+
+
 # Features Demonstrated
 -Router-to-switch topology
 
