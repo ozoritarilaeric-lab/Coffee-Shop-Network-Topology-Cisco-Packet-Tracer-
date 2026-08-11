@@ -10,3 +10,10 @@ The goal of this project was to design and simulate a small coffee shop network 
 -Wireless Internet access for guests
 
 -Centralized network management through a switch and router
+
+In this project, I built the complete network topology in Cisco Packet Tracer using the following steps:
+
+# Network Design
+-Added an ISP Cloud to represent Internet connectivity.
+-
+-
