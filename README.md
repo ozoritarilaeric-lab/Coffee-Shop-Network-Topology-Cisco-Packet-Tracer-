@@ -30,3 +30,9 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 -Office Printer
 
 -Receipt Printer
+
+# Wireless Network
+
+-Added an Access Point for guest Wi-Fi.
+
+-Connected two guest laptops wirelessly to the access point.
