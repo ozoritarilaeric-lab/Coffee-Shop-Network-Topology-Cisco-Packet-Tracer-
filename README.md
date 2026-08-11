@@ -60,3 +60,17 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 -The topology demonstrated both wired and wireless communication within a single network.
 
 -The design is scalable and can be extended with VLANs, DHCP, NAT, and security policies.
+
+# Skills Gained
+
+-Basic network design
+
+-Router and switch interconnection
+
+-Wireless network deployment
+
+-Small-business network architecture
+
+-Packet Tracer topology creation and troubleshooting
+
+
