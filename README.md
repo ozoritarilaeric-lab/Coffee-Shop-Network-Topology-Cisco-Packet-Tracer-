@@ -77,9 +77,9 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 
 # Device                   Purpose
 
--Cloud-PT	                 ISP / Internet
+-Cloud-PT	                    -ISP / Internet
 
--Cisco 2911 Router	         Routing and WAN connectivity
+-Cisco 2911 Router	          -Routing and WAN connectivity
 
 -Cisco 2960-24TT            Switch	LAN switching
 
