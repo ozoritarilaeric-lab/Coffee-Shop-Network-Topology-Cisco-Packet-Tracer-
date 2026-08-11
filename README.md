@@ -93,6 +93,22 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 
 -Guest Laptops
 
+# Network Connections
+
+-Router Gig0/0 → ISP Cloud
+
+-Router Gig0/1 → Switch
+
+-Switch Fa0/2 → Office Printer
+
+-Switch Fa0/3 → Manager PC
+
+-Switch Fa0/6 → POS Terminal
+
+-Switch Fa0/7 → Receipt Printer
+
+-Switch Fa0/11 → Guest Wi-Fi Access Point
+
 				
 				
 				
