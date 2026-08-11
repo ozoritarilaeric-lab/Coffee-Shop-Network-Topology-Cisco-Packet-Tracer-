@@ -2,6 +2,7 @@ This project presents a small business network designed in Cisco Packet Tracer t
 
 # Objectives
 The goal of this project was to design and simulate a small coffee shop network that provides:
+
 -Reliable Internet connectivity
 
 -Secure communication for business devices
