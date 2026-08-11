@@ -44,3 +44,19 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 -Verified that wired and wireless devices were connected through the switch and router.
 
 -Simulated Internet access through the ISP cloud.
+
+# Outcome
+
+-The final network topology successfully achieved the project objectives.
+
+# Successful Results
+
+-All wired devices were connected to the switch.
+
+-Guest laptops connected successfully to the wireless access point.
+
+-The router provided a path to the ISP for Internet access.
+
+-The topology demonstrated both wired and wireless communication within a single network.
+
+-The design is scalable and can be extended with VLANs, DHCP, NAT, and security policies.
