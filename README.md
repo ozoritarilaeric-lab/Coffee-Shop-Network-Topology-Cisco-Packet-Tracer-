@@ -20,3 +20,10 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 -Configured a Cisco 2911 router as the gateway between the local network and the ISP.
 
 -Added a Cisco 2960-24TT switch as the central switching device.
+
+# Wired Devices
+
+-Manager PC
+-POS Terminal
+-Office Printer
+-Receipt Printer
