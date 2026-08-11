@@ -128,6 +128,8 @@ VLAN 20 →	POS devices
 
 VLAN 30 →	Guest Wi‑Fi
 
+This improves security by isolating guest users from business systems.
+
 # Features Demonstrated
 -Router-to-switch topology
 
