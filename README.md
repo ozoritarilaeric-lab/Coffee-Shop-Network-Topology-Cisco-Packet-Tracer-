@@ -49,6 +49,21 @@ In this project, I built the complete network topology in Cisco Packet Tracer us
 
 -The final network topology successfully achieved the project objectives.
 
+# Device Configuration
+
+# Router Configuration (Cisco 2911)
+
+enable
+
+configure terminal
+
+hostname CoffeeShop-RTR
+
+interface gigabitEthernet0/0
+ip address dhcp 
+no shutdown
+
+
 # Successful Results
 
 -All wired devices were connected to the switch.
