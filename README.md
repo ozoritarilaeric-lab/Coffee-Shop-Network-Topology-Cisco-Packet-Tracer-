@@ -130,20 +130,6 @@ VLAN 30 →	Guest Wi‑Fi
 
 This improves security by isolating guest users from business systems.
 
-# Security Recommendations
-
--Use WPA2/WPA3 on the guest Wi‑Fi.
-
--Apply ACLs to prevent guest access to internal VLANs.
-
--Disable unused switch ports.
-
--Enable port security on access ports.
-
--Use strong router administrative passwords.
-
--Configure DHCP separately for staff and guest networks.
-
 # Features Demonstrated
 -Router-to-switch topology
 
@@ -158,6 +144,23 @@ This improves security by isolating guest users from business systems.
 -Printer connectivity
 
 -Basic network segmentation concepts
-				
+
+# Security Recommendations
+
+-Use WPA2/WPA3 on the guest Wi‑Fi.
+
+-Apply ACLs to prevent guest access to internal VLANs.
+
+-Disable unused switch ports.
+
+-Enable port security on access ports.
+
+-Use strong router administrative passwords.
+
+-Configure DHCP separately for staff and guest networks.
+
+# Conclusion
+This project represents a realistic coffee shop network with both operational and guest access requirements. A router connects the business to an ISP, a switch aggregates wired devices, and an access point provides wireless service to customers. The design is simple, easy to understand, and well suited for learning routing, switching, wireless networking, and small-business network architecture in Cisco Packet Tracer.
+
 				
 	
