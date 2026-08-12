@@ -71,6 +71,14 @@ ip address 192.168.10.1 255.255.255.0
 
 no shutdown
 
+ip dhcp pool STAFF 
+
+network 192.168.10.0 255.255.255.0 
+
+default-router 192.168.10.1
+
+dns-server 8.8.8.8
+
 
 # Successful Results
 
