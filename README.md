@@ -60,7 +60,15 @@ configure terminal
 hostname CoffeeShop-RTR
 
 interface gigabitEthernet0/0
+
 ip address dhcp 
+
+no shutdown
+
+interface gigabitEthernet0/1 
+
+ip address 192.168.10.1 255.255.255.0 
+
 no shutdown
 
 
