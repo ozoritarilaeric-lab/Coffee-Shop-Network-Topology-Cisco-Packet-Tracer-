@@ -130,6 +130,20 @@ VLAN 30 →	Guest Wi‑Fi
 
 This improves security by isolating guest users from business systems.
 
+# Security Recommendations
+
+-Use WPA2/WPA3 on the guest Wi‑Fi.
+
+-Apply ACLs to prevent guest access to internal VLANs.
+
+-Disable unused switch ports.
+
+-Enable port security on access ports.
+
+-Use strong router administrative passwords.
+
+-Configure DHCP separately for staff and guest networks.
+
 # Features Demonstrated
 -Router-to-switch topology
 
