@@ -181,6 +181,6 @@ This Packet Tracer project demonstrates several networking concepts:
 This project represents a realistic coffee shop network with both operational and guest access requirements. A router connects the business to an ISP, a switch aggregates wired devices, and an access point provides wireless service to customers. The design is simple, easy to understand, and well suited for learning routing, switching, wireless networking, and small-business network architecture in Cisco Packet Tracer.
 
 # License
-This project is for educational and learning purposes.
+This project is intended for educational and learning purposes only.
 				
 	
