@@ -240,7 +240,10 @@ This Packet Tracer project demonstrates several networking concepts:
 -Basic network segmentation
 
 # Conclusion
-This project represents a realistic coffee shop network with both operational and guest access requirements. A router connects the business to an ISP, a switch aggregates wired devices, and an access point provides wireless service to customers. The design is simple, easy to understand, and well suited for learning routing, switching, wireless networking, and small-business network architecture in Cisco Packet Tracer.
+This project successfully designed and simulated a small business coffee shop network using Cisco Packet Tracer. The topology integrated a Cisco router, a switch, wired office devices, a POS terminal, printers, and a guest Wi-Fi network connected to an ISP. The simulation demonstrated how routing, switching, and wireless networking work together in a realistic small-business environment.
+The project achieved its main objective of providing connectivity for both business operations and guest users while maintaining a simple and scalable network structure. Through this implementation, practical skills in network design, device interconnection, IP addressing, wireless configuration, and connectivity verification were developed.
+Overall, the project provides a solid foundation for understanding small-business network infrastructure and can be further enhanced with VLANs, DHCP, NAT, ACLs, and additional security features for more advanced networking practice.
+
 
 # License
 This project is intended for educational and learning purposes only.
