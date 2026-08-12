@@ -79,6 +79,37 @@ default-router 192.168.10.1
 
 dns-server 8.8.8.8
 
+end 
+
+write memory
+
+# Switch Configuration (Cisco 2960)
+
+enable 
+
+configure terminal
+
+hostname Main-Switch 
+
+interface range fa0/2 - 7
+
+switchport mode access 
+
+spanning-tree portfast
+
+interface fa0/11 
+
+switchport mode access 
+
+spanning-tree portfast
+
+interface gigabitEthernet0/1
+
+switchport mode access
+
+end 
+
+write memory
 
 # Successful Results
 
